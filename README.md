@@ -20,3 +20,7 @@ Deliver actionable insights from Acme Co.’s 2021–2025 sales data to:
 - Spot pricing and margin risks from outlier transactions  
 - Inform pricing, promotion, and market-expansion strategies  
 These findings will guide the design of a Power BI dashboard to support strategic decision-making and sustainable growth.
+
+## 🎯 **Raw Data Structure**
+Sales, products, budgets, customers, regions, and states were spread across unlinked tables. No relationships were defined initially— Pre-processing was required to clean, normalize, and join them for analysis.
+![Raw Data Structure](Doc/Raw Data Structure.png)
