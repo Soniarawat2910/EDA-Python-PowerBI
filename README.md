@@ -59,7 +59,7 @@ Here are some charts and insights related to dataset which provides deep details
 
 ## 🎯 **Top 10 Products by Average Profit Margin**
 
-![Top 10 Products by Avg Profit Margin](Doc/Top%2010%20Products%20by%20Avg%20 Profit%20Margin.jpg)
+![Top 10 Products by Avg Profit Margin](Doc/Top%2010%20Products%20by%20Avg%20Profit%20Margin.jpg)
 
 - Top: Products 18 & 28 lead at ~$8.1–8.4K.
 -Next tier: Products 5, 11, 12 & 26 at ~$7.5–7.8K.
