@@ -86,7 +86,7 @@ Here are some charts and insights related to dataset which provides deep details
 
 ## 🎯 **Average Order Value (AOV) Distribution**
 
-![Average Order Value](Doc/Averagel%20Orderl%20Value.jpg)
+![Average Order Value](Doc/Average%20Orderl%20Value.jpg)
 
 - Low average order values are frequent.
 - Distribution is right-skewed (long tail of high-value orders).
