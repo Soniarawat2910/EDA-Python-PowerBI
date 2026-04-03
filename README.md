@@ -79,19 +79,19 @@ Here are some charts and insights related to dataset which provides deep details
 
 ![Total Sales by US Regionl](Doc/Total%20Sales%20by%20US%20Region.jpg)
 
-•West: Highest sales, strong market influence.
-•South: Major sales contributor, key market area.
-•Midwest: Steady sales performance, moderate market size.
-•Northeast: Lowest sales, suggests need for deeper market understanding.
+- West: Highest sales, strong market influence.
+- South: Major sales contributor, key market area.
+- Midwest: Steady sales performance, moderate market size.
+- Northeast: Lowest sales, suggests need for deeper market understanding.
 
 ## 🎯 **Average Order Value (AOV) Distribution**
 
 ![Average Order Value](Doc/Averagel%20Orderl%20Value.jpg)
 
-•Low average order values are frequent.
-•Distribution is right-skewed (long tail of high-value orders).
-•Multiple order value clusters exist.
-•Higher order values are less common.
+- Low average order values are frequent.
+- Distribution is right-skewed (long tail of high-value orders).
+- Multiple order value clusters exist.
+- Higher order values are less common.
 
 ## 🎯 **Top State Performance: Revenue vs. Orders**
 
@@ -99,26 +99,27 @@ Here are some charts and insights related to dataset which provides deep details
 
 ![Top 10 State By Order](Doc/Top%2010%20State%20By%20Order.jpg)
 
-•California tops revenue & orders.
-•IL, FL, TX: High in both.
-•Revenue & orders linked.
-•Other top states: Lower contribution.
+- California tops revenue & orders.
+- IL, FL, TX: High in both.
+- Revenue & orders linked.
+- Other top states: Lower contribution.
 
 ## 🎯 **Top and Bottom 10 Customers by Revenue**
 
-![Top 10 & Bottom 10 Customer By Revenue](Doc/Top%2010%20& Bottom%2010%20Customer%20By%20Revenue.jpg)
+![Top 10 & Bottom 10 Customer By Revenue](Doc/Top%2010%20&%20Bottom%2010%20Customer%20By%20Revenue.jpg)
 
-•Aibox Company leads significantly as the top revenue generator.
-•Bottom 10 customers generate substantially less revenue (around $4-5M).
-•Revenue concentration: Top customers drive a disproportionate share.
-•Large gap: Exists between the revenue of top and bottom tier customers.
+- Aibox Company leads significantly as the top revenue generator.
+- Bottom 10 customers generate substantially less revenue (around $4-5M).
+- Revenue concentration: Top customers drive a disproportionate share.
+- Large gap: Exists between the revenue of top and bottom tier customers.
 
 ## 🎯 **Customer Segmentation: Revenue vs. Profit Margin**
+
 ![Revenue vs. Profit Margin](Doc/Revenue%20vs.%20Profit%20Margin.jpg)
 
-•Those Uniform 35–40 % margins confirm strong, consistent pricing and cost control.
-•>$10 M clients with <36 % margins reveal discounting hotspots—re evaluate large‑account terms.
-•$6–9 M clients with >40 % margins are high‑value candidates for targeted upsell.
+- Those Uniform 35–40 % margins confirm strong, consistent pricing and cost control.
+- >$10 M clients with <36 % margins reveal discounting hotspots—re evaluate large‑account terms.
+- >$6–9 M clients with >40 % margins are high‑value candidates for targeted upsell.
 
 
 
@@ -126,10 +127,10 @@ Here are some charts and insights related to dataset which provides deep details
 
 ![Numeric Features](Doc/Numeric%20Features.jpg)
 
-•Unit price is the primary driver, showing very strong correlations with cost (0.94), revenue (0.91) and profit (0.79).
-•Revenue & profit maintain a high link (0.87), underscoring direct profitability gains.
-•Quantity’s impact is minimal (≤ 0.34 vs. financials), indicating volume plays a secondary role.
-•Cost vs. profit correlation (0.58) is moderate, suggesting margin improvement focus should center on pricing.
+- Unit price is the primary driver, showing very strong correlations with cost (0.94), revenue (0.91) and profit (0.79).
+- Revenue & profit maintain a high link (0.87), underscoring direct profitability gains.
+- Quantity’s impact is minimal (≤ 0.34 vs. financials), indicating volume plays a secondary role.
+- Cost vs. profit correlation (0.58) is moderate, suggesting margin improvement focus should center on pricing.
 
 
 
