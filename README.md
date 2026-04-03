@@ -23,4 +23,4 @@ These findings will guide the design of a Power BI dashboard to support strategi
 
 ## 🎯 **Raw Data Structure**
 Sales, products, budgets, customers, regions, and states were spread across unlinked tables. No relationships were defined initially— Pre-processing was required to clean, normalize, and join them for analysis.
-![Raw Data Structure](Doc/Raw Data Structure.png)
+![Raw Data Structure](Doc/Raw%20Data%20Structure.png)
