@@ -74,7 +74,16 @@ Here are some charts and insights related to dataset which provides deep details
 - Distributor is significant: Contributes a substantial 31.3% to total sales.
 - Export is a smaller portion: Accounts for 14.6% of the total sales.
 
-- 
+## 🎯 **Total Sales by State**
+
+![Total Sales By State](Doc/Total%20Sales%20By%20State.png)
+
+- California leads: Highest total sales.
+- Texas, Florida, Illinois: Significant sales.
+- Varying sales: Other states show moderate to low sales.
+- Visual pattern: Higher sales in larger and some coastal states
+
+ 
 ## 🎯 **Total Sales by US Region**
 
 ![Total Sales by US Regionl](Doc/Total%20Sales%20by%20US%20Region.jpg)
@@ -86,7 +95,7 @@ Here are some charts and insights related to dataset which provides deep details
 
 ## 🎯 **Average Order Value (AOV) Distribution**
 
-![Average Order Value](Doc/Average%20Orderl%20Value.jpg)
+![Average Order Value](Doc/Average%20Order%20Value.jpg)
 
 - Low average order values are frequent.
 - Distribution is right-skewed (long tail of high-value orders).
