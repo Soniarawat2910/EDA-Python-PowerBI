@@ -174,9 +174,10 @@ Here are some charts and insights related to dataset which provides deep details
 
 ![Revenue Scenarios](Doc/Revenue%20Scenarios.png)
 
+<img src="Doc/Revenue%20Scenarios.png" height="300">
 
-<h1 align="center">Conclusions<img width="466" height="140" alt="image" src="https://github.com/user-attachments/assets/bb2a0a96-2a05-4e5f-bf66-9756fa34c264" />
-</h1>
+
+<h1 align="center">Conclusions</h1>
 
 - Completed end‑to‑end EDA and interactive Power BI dashboard, surfacing seasonality, SKU, channel & regional insights.
 - Insights inform sales policies and operational planning (store & warehouse prep aligned with annual trends).
