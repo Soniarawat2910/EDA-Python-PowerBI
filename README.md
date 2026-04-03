@@ -31,7 +31,8 @@ Sales, products, budgets, customers, regions, and states were spread across unli
 - Identifiers: order_number, order_date, customer_name, channel, product_name
 - Financials: quantity, unit_price, revenue, cost, profit, profit_margin_pct
 - Calendar:  order_month_name, order_month_num, order_month
-- Geography: state (code), state_name, us_region, lat, lonPlanning: budget (2024)
+- Geography: state (code), state_name, us_region, lat, lon
+- Planning: budget (2024)
 ![Final Data Structure](Doc/Final%20Data%20Structure.png)
 
 # 🎯 **Python Charts & Insights**
@@ -39,7 +40,7 @@ Here are some charts and insights related to dataset which provides deep details
 
 ## 🎯 **Monthly Sales Trend Over Time**
 
-![Monthly Sales Trend](Doc/Monthly%20Sales%20Trend.jpg.png)
+![Monthly Sales Trend](Doc/Monthly%20Sales%20Trend.jpg)
 
 - Consistent sales cycle: $24M to $26M.
 - Seasonal peaks: Late spring/early summer (May-June).
