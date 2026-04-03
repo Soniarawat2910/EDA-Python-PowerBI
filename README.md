@@ -133,6 +133,23 @@ Here are some charts and insights related to dataset which provides deep details
 - Cost vs. profit correlation (0.58) is moderate, suggesting margin improvement focus should center on pricing.
 
 
+# 🎯 **Key Insights**
+
+- Pronounced Seasonality: January revenues average $124 M, dipping to $95 M in April.
+- SKU Concentration: Products 26 & 25 together drive ~25 % of total sales.
+- Channel Trade‑Off: Wholesale captures 54 % of volume; Export leads with ~38 % average margin.
+- Geographic Dominance: California alone logs 7.6K orders ($230 M); the West region shows the largest swings.
+- Aibox Company and State Ltd are the most valuable customers in terms of Revenue.
+
+
+# 🎯 **Recommendations**
+
+- Seasonal Promotions: Launch recovery campaigns in April and amplify January offers to smooth revenue swings.
+- SKU Optimization: Double down on top products 26 & 25 and re-evaluate pricing or phase out low‑margin SKUs.
+- Channel Expansion: Incentivize Export partnerships for high margins and introduce volume deals in Wholesale.
+- Regional Investment: Replicate California’s success in other regions and boost marketing in the Northeast & Midwest.
+- Margin Monitoring: Flag orders below 80 % margin and analyse cost drivers to uplift underperforming segments.
+
 
 
 
