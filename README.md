@@ -164,17 +164,15 @@ Here are some charts and insights related to dataset which provides deep details
 
 ## **Page 1 - Performance Summary**
 
-![Performance Summary](Doc/Performance%20Summary.png)
+<img src="Doc/Performance%20Summary.png" height="500">
 
 ## **Page 2 - Customer Segmentation**
 
-![Customer Segmentation](Doc/Customer%20Segmentation.png)
+<img src="Doc/Customer%20Segmentation.png" height="500">
 
 ## **Page 3 -  Revenue Scenarios**
 
-![Revenue Scenarios](Doc/Revenue%20Scenarios.png)
-
-<img src="Doc/Revenue%20Scenarios.png" height="300">
+<img src="Doc/Revenue%20Scenarios.png" height="500">
 
 
 <h1 align="center">Conclusions</h1>
