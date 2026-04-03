@@ -160,6 +160,29 @@ Here are some charts and insights related to dataset which provides deep details
 - Margin Monitoring: Flag orders below 80 % margin and analyse cost drivers to uplift underperforming segments.
 
 
+<h1 align="center">Dashboard Preview</h1>
+
+## **Page 1 - Performance Summary**
+
+![Performance Summary](Doc/Performance%20Summary.png)
+
+## **Page 2 - Customer Segmentation**
+
+![Customer Segmentation](Doc/Customer%20Segmentation.png)
+
+## **Page 3 -  Revenue Scenarios**
+
+![Revenue Scenarios](Doc/Revenue%20Scenarios.png)
+
+
+<h1 align="center">Conclusions<img width="466" height="140" alt="image" src="https://github.com/user-attachments/assets/bb2a0a96-2a05-4e5f-bf66-9756fa34c264" />
+</h1>
+
+- Completed end‑to‑end EDA and interactive Power BI dashboard, surfacing seasonality, SKU, channel & regional insights.
+- Insights inform sales policies and operational planning (store & warehouse prep aligned with annual trends).
+- Stakeholders can self‑serve real‑time analysis and confidently onboard new datasets for additional use cases.
+
+
 
 
 
