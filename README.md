@@ -33,6 +33,7 @@ Sales, products, budgets, customers, regions, and states were spread across unli
 - Calendar:  order_month_name, order_month_num, order_month
 - Geography: state (code), state_name, us_region, lat, lon
 - Planning: budget (2024)
+  
 ![Final Data Structure](Doc/Final%20Data%20Structure.png)
 
 # 🎯 **Python Charts & Insights**
@@ -46,6 +47,35 @@ Here are some charts and insights related to dataset which provides deep details
 - Seasonal peaks: Late spring/early summer (May-June).
 - Annual low: January.
 - Notable outlier: Sharp revenue drop in early 2024.
+
+## 🎯 **Top 10 Products by Revenue**
+
+![Top 10 Products By Revenue](Doc/Top%2010%20Products%20By%20Revenue.jpg)
+
+- Revenue leaders: Products 26 & 25 dominate.
+- Mid-range: Products 5, 13, 14, 15 show similar revenue.
+- Bottom cluster: Products 1, 2, 3, 4 have the lowest revenue.
+- Strategy: Grow mid-tier, improve lower performers.
+
+## 🎯 **Top 10 Products by Average Profit Margin**
+
+![Top 10 Products by Avg Profit Margin](Doc/Top%2010%20Products%20by%20Avg%20 Profit%20Margin.jpg)
+
+- Top: Products 18 & 28 lead at ~$8.1–8.4K.
+-Next tier: Products 5, 11, 12 & 26 at ~$7.5–7.8K.
+-Entry‑level: Products 1, 4, 16 & 21 around $7.3K.
+-Takeaway: Top 10 all exceed $7.3K—consistent high margins.
+
+## 🎯 **Sales by Channel**
+
+![Sales By Channel](Doc/Sales%20By%20Channel.jpg)
+
+- Wholesale dominates: Generates the majority of total sales at 54.1%.
+- Distributor is significant: Contributes a substantial 31.3% to total sales.
+- Export is a smaller portion: Accounts for 14.6% of the total sales.
+
+
+
 
 
 
